@@ -3,10 +3,7 @@
         font-size: 25px;
 
     }
-    .section1 h4 
-    {
-        font-size: 15px;
-    }
+   
     .section2 h2 {
         font-size: 25px;
     }
@@ -19,20 +16,8 @@
        margin-left: 38%;
        font-size: 25px;
    }
-   #rond 
-   {
-   
-    width: 25%;
-    height: 25%;
-    border-radius: 150% ;
-    padding: 5%;
-    text-align: center;
-    margin-top: 15%;
-    margin-left: 40%;
-   }
-   #card {
-       margin-bottom: 2em;
-   }
+  
+  
  
   }
 
@@ -41,10 +26,7 @@
         font-size: 25px;
 
     }
-    .section1 h4 
-    {
-        font-size: 15px;
-    }
+   
     .section2 h2 {
         font-size: 25px;
     }
@@ -55,20 +37,7 @@
 
     }
 
-    .cc {
-        margin-left: 35%;
-        font-size: 25px;
-    }
-    #rond {
-       
-        width: 25%;
-        height: 25%;
-        border-radius: 150% ;
-        padding: 5%;
-        text-align: center;
-        margin-top: 15%;
-        margin-left: 40%;
-    }
+    
 
 
   } 
@@ -78,10 +47,7 @@
           font-size: 25px;
 
       }
-      .section1 h4 
-      {
-          font-size: 15px;
-      }
+      
       .section2 h2 {
           font-size: 20px;
           
@@ -97,18 +63,9 @@
           font-size: 25px;
 
       }
-      #rond {
-          
-          width: 25%;
-          height: 25%;
-          border-radius: 150% ;
-          padding: 5%;
-          text-align: center;
-          margin-top: 15%;
-          margin-left: 40%;
-      }
+     
       p{
-          font-size: 60%;
+          font-size: 90%;
       }
 
    
@@ -117,12 +74,11 @@
   @media screen and (min-width: 500px) and (max-width: 586px) {
     .section1 h1{
         font-size: 25px;
+    
+        
 
     }
-    .section1 h4 
-    {
-        font-size: 15px;
-    }
+   
     .section2 h2 {
         font-size: 20px;
     }
@@ -131,33 +87,23 @@
         font-size: 20px;
 
     }
-    #rond {
-      
-        width: 25%;
-        height: 25%;
-        border-radius: 150% ;
-        padding: 2%;
-        text-align: center;
-        margin-top: 15%;
-        margin-left: 40%;
-    }
+
+    
+   
    p {
-       font-size: 60%;
+       font-size: 150%;
    }
 
   }
 
   @media screen and (min-width: 360px) and (max-width: 499px) {
     .section1 h1{
-        font-size: 15px;
+        font-size: 20px;
 
     }
-    .section1 h4 
-    {
-        font-size: 10px;
-    }
+   
     .section2 h2 {
-        font-size: 15px;
+        font-size: 25px;
     }
     .cc {
         margin-left: 30%;
@@ -165,18 +111,9 @@
 
     }
    
-    #rond {
-       
-        width: 25%;
-        height: 25%;
-        border-radius: 150% ;
-        padding: 2%;
-        text-align: center;
-        margin-top: 15%;
-        margin-left: 40%;
-    }
+ 
    p {
-       font-size: 60%;
+       font-size: 100%;
    }
 
 
@@ -184,15 +121,12 @@
 
   @media screen and (min-width: 320px) and (max-width: 359px) {
     .section1 h1{
-        font-size: 15px;
+        font-size: 20px;
 
     }
-    .section1 h4 
-    {
-        font-size: 10px;
-    }
+    
     .section2 h2 {
-        font-size: 15px;
+        font-size: 20px;
     }
     .cc {
         margin-left: 30%;
@@ -202,17 +136,9 @@
     #a {
         size: 46%;
     }
-    #rond {
-        margin-left: 10%;
-        width: 25%;
-        height: 25%;
-        border-radius: 150% ;
-        padding: 2%;
-        margin-top: 15%;
-        
-    }
+   
    p {
-       font-size: 60%;
+       font-size: 100%;
    }
 
   }
@@ -223,10 +149,7 @@
         font-size: 15px;
 
     }
-    .section1 h4 
-    {
-        font-size: 10px;
-    }
+  
     .section2 h2 {
         font-size: 15px;
     }
@@ -238,17 +161,9 @@
     #a {
         size: 46%;
     }
-    #rond {
-        margin-left: 10%;
-        width: 25%;
-        height: 25%;
-        border-radius: 150% ;
-        padding: 2%;
-        margin-top: 15%;
-        
-    }
+  
    p {
-       font-size: 60%;
+       font-size: 100%;
    }
 
   }

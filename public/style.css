@@ -15,36 +15,33 @@ body
 .section1
 {
     
-    padding-bottom: 10%;
+    padding-bottom: 30%;
    padding-top: 20%;   
    background-repeat: no-repeat;
-   background-image: url(./images/Eighty\ By\ Jon\ Verhoeft-18.jpg);
+   background-image: url(./images/WhatsApp\ Image\ 2021-02-10\ at\ 14.28.37.jpeg);
    background-size: 100%;
+   
+   
 
     
 }
-
 
 .section1 h1
 {
     align-items: center;
     justify-content: center;
-    padding-top: 2;
-    color: #fffffd;
+    padding-top: 5%;
+    color: #31796c;
     text-align: center;
     font-family: 'Lato', sans-serif;
+    font-size: 210%;
+    margin-right: 3%;
+  
     
     
 
 }
-.section1 h4
-{
-    color: whitesmoke;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-align: center;
-    padding-top: 2em;
-    font-family: 'Lato', sans-serif;
-}
+
 .section2 h2
 {
     text-align: center;
@@ -57,17 +54,9 @@ body
 .section2
 {
    align-items: center;
+   margin-bottom: 5%;
 
 }
-
-
-
-.number
-{
-    margin-top: 5px;;
-   
-}
-
 #a
 {
     width: 17%;
@@ -77,19 +66,7 @@ body
 }
 
 
-#rond
-{
-    width: 15%;
-    height: 15%;
-    border-radius: 150% ;
-    background-color: #2f7569 ;
-    color: white;
-    padding: 4%;
-    text-align: center;
-    margin-top: 5%;
-    margin-left: 40%;
-    
-  }  
+
 
 
 @media screen and  (max-width:800px){
